@@ -10,6 +10,10 @@
 
 ---
 
+[](https://github-profile-trophy.vercel.app/?username=incrediblenura)
+
+---
+
 ### 🚀 About Me
 - 🌱 Currently exploring **Next.js**, modern UI libraries, and creative web animations  
 - 💡 I enjoy building smooth user experiences with clean and elegant design  
@@ -60,4 +64,5 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=incrediblenura&repo=incrediblenura.github.io&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://incrediblenura.github.io)
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=incrediblenura'></p>
+
 
