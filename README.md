@@ -10,7 +10,11 @@
 
 ---
 
-[](https://github-profile-trophy.vercel.app/?username=incrediblenura)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=incrediblenura&label=Profile%20views&color=0e75b6&style=flat" alt="incrediblenura" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=incrediblenura" alt="incrediblenura" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/incrediblenura" target="blank"><img src="https://img.shields.io/twitter/follow/incrediblenura?logo=twitter&style=for-the-badge" alt="incrediblenura" /></a> </p>
 
 ---
 
@@ -64,5 +68,6 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=incrediblenura&repo=incrediblenura.github.io&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)](https://incrediblenura.github.io)
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=incrediblenura'></p>
+
 
 
